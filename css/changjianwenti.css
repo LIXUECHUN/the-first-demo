@@ -47,20 +47,22 @@ a{
     height:25px;    
     font-size:15px;
     color:#919191;
+    float:left;
 }
 .language{
     width:72px;
     height:25px;
-    font-size:15px; 
+    font-size: 15px;
     color:red;
     float:left;
-    margin-top: 52px;  
+    margin-top: 52px;
     padding-right:10px;
 }
 select{
     color:red;
     border-color: #ffffff;
 }
+
 .zhuce{
     width:116px;
     height:16px;
@@ -74,39 +76,40 @@ select{
 }
 .daohang{
     width:945px;
-    height:31px;
+    height:51px;
     float:left;     
 }
 .daohang ul{
     float:left;
-    margin-top:30px;
-    padding-left:0;
+    padding-left: 0;
 }
 .daohang ul li{
     font-size:16px;
     float:left;
-    padding-right:50px;
+    padding-top: 18px;
+    padding-right:25px;
 }
-li .beijing{
-    background-color:#2756a4;
-    height:50px;
-    width:100px;
-    text-align: center;
-    color:#ffffff; 
+.s{
+    padding-right: 40px;
+    padding-left:0;
 }
-.dingbu6{
-    padding-top:10px;
-    height: 50px;   
-    padding-left:80px;
+.p{
+    padding-left: 25px;
+}
+.k{
+    width:68px;
+    height:38px;
+    color:#ffffff;
+    padding-left:25px;
+    background-color: #2756a4;
 }
 .sousuo{
     width:250px;
     height:40px;
     background-color:#ebeaea;
     float:left;
-    color:#b9b9ba;
+    color:#c8c8c8;
     font-size:15px;
-    margin-top: 20px;
 }
 .sousuo p{
     padding:10px 170px 10px 10px;
@@ -116,10 +119,7 @@ li .beijing{
     padding-top:10px;
     padding-bottom: 10px;
     float:left;
-    width:21px;
-    height:22px;
 }
-
 /*中间开始*/
 .box{
     height:1785px;
